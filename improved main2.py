@@ -1,4 +1,4 @@
-# Define a PrimeGenerator class
+
 class PrimeGenerator:
     def __init__(self, stop=None):
         self.stop = stop
